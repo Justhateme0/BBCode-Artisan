@@ -1,0 +1,19 @@
+C:\Users\GODSYSTEM\source\repos\BBCode Artisan\BBCode Artisan\bin\Debug\net8.0-windows\BBCode Artisan.exe
+C:\Users\GODSYSTEM\source\repos\BBCode Artisan\BBCode Artisan\bin\Debug\net8.0-windows\BBCode Artisan.deps.json
+C:\Users\GODSYSTEM\source\repos\BBCode Artisan\BBCode Artisan\bin\Debug\net8.0-windows\BBCode Artisan.runtimeconfig.json
+C:\Users\GODSYSTEM\source\repos\BBCode Artisan\BBCode Artisan\bin\Debug\net8.0-windows\BBCode Artisan.dll
+C:\Users\GODSYSTEM\source\repos\BBCode Artisan\BBCode Artisan\bin\Debug\net8.0-windows\BBCode Artisan.pdb
+C:\Users\GODSYSTEM\source\repos\BBCode Artisan\BBCode Artisan\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\GODSYSTEM\source\repos\BBCode Artisan\BBCode Artisan\obj\Debug\net8.0-windows\BBCode Artisan.csproj.AssemblyReference.cache
+C:\Users\GODSYSTEM\source\repos\BBCode Artisan\BBCode Artisan\obj\Debug\net8.0-windows\BBCode_Artisan.Form1.resources
+C:\Users\GODSYSTEM\source\repos\BBCode Artisan\BBCode Artisan\obj\Debug\net8.0-windows\BBCode Artisan.csproj.GenerateResource.cache
+C:\Users\GODSYSTEM\source\repos\BBCode Artisan\BBCode Artisan\obj\Debug\net8.0-windows\BBCode Artisan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GODSYSTEM\source\repos\BBCode Artisan\BBCode Artisan\obj\Debug\net8.0-windows\BBCode Artisan.AssemblyInfoInputs.cache
+C:\Users\GODSYSTEM\source\repos\BBCode Artisan\BBCode Artisan\obj\Debug\net8.0-windows\BBCode Artisan.AssemblyInfo.cs
+C:\Users\GODSYSTEM\source\repos\BBCode Artisan\BBCode Artisan\obj\Debug\net8.0-windows\BBCode Artisan.csproj.CoreCompileInputs.cache
+C:\Users\GODSYSTEM\source\repos\BBCode Artisan\BBCode Artisan\obj\Debug\net8.0-windows\BBCode A.38F9B536.Up2Date
+C:\Users\GODSYSTEM\source\repos\BBCode Artisan\BBCode Artisan\obj\Debug\net8.0-windows\BBCode Artisan.dll
+C:\Users\GODSYSTEM\source\repos\BBCode Artisan\BBCode Artisan\obj\Debug\net8.0-windows\refint\BBCode Artisan.dll
+C:\Users\GODSYSTEM\source\repos\BBCode Artisan\BBCode Artisan\obj\Debug\net8.0-windows\BBCode Artisan.pdb
+C:\Users\GODSYSTEM\source\repos\BBCode Artisan\BBCode Artisan\obj\Debug\net8.0-windows\BBCode Artisan.genruntimeconfig.cache
+C:\Users\GODSYSTEM\source\repos\BBCode Artisan\BBCode Artisan\obj\Debug\net8.0-windows\ref\BBCode Artisan.dll
