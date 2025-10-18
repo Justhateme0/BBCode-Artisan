@@ -54,7 +54,7 @@
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/bbcode-artisan.git
+git clone https://github.com/Justhateme0/BBCode-Artisan
 cd bbcode-artisan
 ```
 
@@ -204,7 +204,7 @@ Created with passion for forum communities and content creators.
 
 1. Клонируйте репозиторий:
 ```bash
-git clone https://github.com/yourusername/bbcode-artisan.git
+git clone https://github.com/Justhateme0/BBCode-Artisan
 cd bbcode-artisan
 ```
 
@@ -321,3 +321,4 @@ BBCode Artisan/
 [⬆ Back to top](#bbcode-artisan)
 
 </div>
+
