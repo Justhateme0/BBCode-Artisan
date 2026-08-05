@@ -47,12 +47,37 @@ namespace BBCode_Artisan
 
             Controls.AddRange(new Control[] { lblTitle, btnTheme, btnMinimize, btnMaximize, btnClose });
 
+            PositionButtons();
+
             MouseDown += TitleBar_MouseDown;
             MouseMove += TitleBar_MouseMove;
             MouseUp += TitleBar_MouseUp;
             lblTitle.MouseDown += TitleBar_MouseDown;
             lblTitle.MouseMove += TitleBar_MouseMove;
             lblTitle.MouseUp += TitleBar_MouseUp;
+        }
+
+        protected override void OnResize(EventArgs e)
+        {
+            base.OnResize(e);
+            PositionButtons();
+        }
+
+        // The window buttons are anchored to the right, but they were originally
+        // positioned using the parent form's width while this panel was still at its
+        // default size, which pushed them off-screen. Lay them out from the panel's
+        // actual width instead (right-aligned: theme, minimise, maximise, close).
+        private void PositionButtons()
+        {
+            // OnResize can fire during construction, before the buttons are created.
+            if (btnClose == null || btnMaximize == null || btnMinimize == null || btnTheme == null)
+                return;
+
+            int w = ClientSize.Width;
+            btnClose.Location = new Point(w - 40 - 10, 0);
+            btnMaximize.Location = new Point(w - 40 - 50, 0);
+            btnMinimize.Location = new Point(w - 40 - 90, 0);
+            btnTheme.Location = new Point(w - 40 - 140, 0);
         }
 
         private Button CreateTitleButton(string text, int rightOffset)

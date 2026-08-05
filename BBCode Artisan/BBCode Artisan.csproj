@@ -7,6 +7,13 @@
     <Nullable>enable</Nullable>
     <UseWindowsForms>true</UseWindowsForms>
     <ImplicitUsings>enable</ImplicitUsings>
+    <!-- Render at 96 DPI and let Windows bitmap-scale the whole window as one surface.
+         The UI is built in code with fixed pixel sizes, which WinForms per-monitor
+         auto-scaling doesn't handle (controls clip on high-DPI monitors). Plain
+         DpiUnaware scales the entire window uniformly, so nothing clips and there are
+         no per-control compositing artifacts (GdiScaled leaked other windows through
+         the scrollable left pane). Slight softness is the trade-off. -->
+    <ApplicationHighDpiMode>DpiUnaware</ApplicationHighDpiMode>
   </PropertyGroup>
 
   <ItemGroup>
